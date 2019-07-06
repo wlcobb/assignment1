@@ -19,14 +19,7 @@
     "vee-validate": "^2.2.10",
     "vue": "^2.6.10"
    },
-  "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.8.0",
-    "@vue/cli-plugin-eslint": "^3.8.0",
-    "@vue/cli-service": "^3.8.0",
-    "babel-eslint": "^10.0.1",
-    "eslint-plugin-vue": "^5.0.0",
-    "vue-template-compiler": "^2.6.10"
-  },
+
   "engines": {
     "node": ">= 6.0.0",
     "npm": ">= 3.0.0"
